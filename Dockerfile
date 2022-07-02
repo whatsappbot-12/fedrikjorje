@@ -1,4 +1,4 @@
-FROM quay.io/souravkl11/raganork:multidevice
+FROM quay.io/whatsappbot-12/fedrikjorje:multidevice
 
 RUN git clone https://github.com/souravkl11/raganork-md /skl/Raganork
 WORKDIR /skl/Raganork
